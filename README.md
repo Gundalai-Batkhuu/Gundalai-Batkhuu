@@ -1,9 +1,9 @@
 # 👋 hi, I'm Dale
 
-<div align="center">
+<div align="left">
   
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Building+Modern+Data-Intensive+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Building+Modern+Data-Intensive+Apps)](https://git.io/typing-svg)
 
 </div>
 
