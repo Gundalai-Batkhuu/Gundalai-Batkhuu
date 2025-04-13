@@ -24,7 +24,7 @@ I like building web applications that has the latest AI features
 
 ### Web Development
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4500?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ### Databases
 
@@ -32,7 +32,7 @@ I like building web applications that has the latest AI features
 
 ### Data & AI
 
-[![Pandas](https://img.shields.io/badge/Pandas-2C3E50?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F79009?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-222222?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4500?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/) [![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/) [![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ai-sdk) [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![PydanticAI](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=PydanticAI&logoColor=white)](https://ai.pydantic.dev/agents/) [![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ai-sdk) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F79009?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![Pandas](https://img.shields.io/badge/Pandas-2C3E50?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 
 ### Infrastructure & Tools
 
