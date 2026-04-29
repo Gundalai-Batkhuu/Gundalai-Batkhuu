@@ -32,7 +32,7 @@ I like building web applications that has the latest AI features
 
 ### Data & AI
 
-[![PydanticAI](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=PydanticAI&logoColor=white)](https://ai.pydantic.dev/agents/) [![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ai-sdk) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F79009?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![Pandas](https://img.shields.io/badge/Pandas-2C3E50?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![ClaudeCode](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://code.claude.com/docs/en/overview) [![PydanticAI](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=PydanticAI&logoColor=white)](https://ai.pydantic.dev/agents/) [![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ai-sdk) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F79009?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![Pandas](https://img.shields.io/badge/Pandas-2C3E50?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 
 ### Infrastructure & Tools
 
