@@ -44,7 +44,7 @@ I like building web applications that has the latest AI features
 
 ## 🌟 Check out my projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gundalai-batkhuu.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gundalaibatkhuu.com/)
 
 ## 🤝 Connect with Me
 
