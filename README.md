@@ -12,7 +12,7 @@
 I like building web applications that has the latest AI features
 
 - 🔭 I'm currently exploring the practical intersection of AI and software development
-- 🌱 Learning **Vercel AI SDK and Pydantic AI** and building custom tools using them
+- 🌱 Deep diving into **Claude Code** and building my agentic team
 - 👯 Open to connect and collaborate on **AI & Data Projects**
 
 ## 🛠️ Tech Stack
